@@ -1,4 +1,4 @@
-<h2>Hi, my name is Kaley</h2>
+<h2>Hello, my name is Kaley</h2>
 </br>
  <div>
   <a href="https://github.com/eagrundy">
