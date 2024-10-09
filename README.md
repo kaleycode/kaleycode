@@ -1,5 +1,6 @@
 <h2>Hello, my name is Kaley</h2>
 </br>
+<img align="center" height="180em" alt="Erica-yoda" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif">
  <div>
   <a href="https://github.com/kaleycode">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaleycode&layout=compact&langs_count=16&theme=dracula"/>
