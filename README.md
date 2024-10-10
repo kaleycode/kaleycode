@@ -1,4 +1,6 @@
-<h2>Hello, my name is Kaley</h2><a href="https://www.linkedin.com/in/kaley-a-0a0099328?trk=people-guest_people_search-card/">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!;+My+name+is+Kaley!;" />
+
+<a href="https://www.linkedin.com/in/kaley-a-0a0099328?trk=people-guest_people_search-card/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
 </br><br>
