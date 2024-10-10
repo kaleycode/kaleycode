@@ -20,7 +20,8 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
+<h2>Connect with Me</h2>
 
-</br>
+</br><br>
 
 </div>
