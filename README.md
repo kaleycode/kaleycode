@@ -17,7 +17,7 @@
    <img height="40" align="center" alt="Erica-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-    [![My Skills](https://skillicons.dev/icons?i="mysql")](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=SQLite)](https://skillicons.dev)
     <br>
 
 
