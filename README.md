@@ -16,12 +16,10 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <br>
   
+</p>
+<h2>Connect with Me</h2>
  <a href="https://www.linkedin.com/in/kaley-a-0a0099328?trk=people-guest_people_search-card/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-</p>
-<h2>Connect with Me</h2>
-
-</br><br>
 
 </div>
