@@ -19,10 +19,6 @@
     <br>
 
 
-![sql]("https://github.com/user-attachments/assets/fea9636a-936d-4447-8b21-24c35ef36389" height = "30")
-
-    
-
 </p>
   <br>
  
