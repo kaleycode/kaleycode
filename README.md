@@ -18,7 +18,8 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <br>
 
-![sql](https://github.com/user-attachments/assets/fea9636a-936d-4447-8b21-24c35ef36389=250x250)
+
+![sql]("https://github.com/user-attachments/assets/fea9636a-936d-4447-8b21-24c35ef36389" height = "30")
 
     
 
