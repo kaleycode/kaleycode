@@ -1,7 +1,7 @@
-<h2>Hello, my name is Kaley</h2> <a href="https://www.linkedin.com/in/kaley-a-0a0099328?trk=people-guest_people_search-card/">
+<h2>Hello, my name is Kaley</h2><a href="https://www.linkedin.com/in/kaley-a-0a0099328?trk=people-guest_people_search-card/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-</br>
+</br><br>
  <div>
   <a href="https://github.com/kaleycode">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaleycode&layout=compact&langs_count=16&theme=dracula"/>
