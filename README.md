@@ -25,7 +25,7 @@
 <img height="40" align="center" height="30" width="40" src="https://skillicons.dev/icons?i=mysql"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <img src="deno-logo.svg" alt="Deno Logo" style="height="40" align="center" height="30" width="40"">
+  <img src="deno-logo.svg" alt="Deno Logo" style="height="40" align="center" height="30" width="40">
     
  <img height="40" align="center" height="30" width="40" src="https://skillicons.dev/icons?i=linux"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
