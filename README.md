@@ -22,12 +22,15 @@
  <img height="40" align="center" height="30" width="40" src="https://skillicons.dev/icons?i=sqlite"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     
-<img height="40" align="center" height="30" width="40" src="https://skillicons.dev/icons?i=mysql"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 <img height="40" align="center" height="30" width="40" src="https://skillicons.dev/icons?i=r"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     
  <img height="40" align="center" height="30" width="40" src="https://skillicons.dev/icons?i=linux"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+<img height="40" align="center" height="30" width="40" src="https://skillicons.dev/icons?i=mysql"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
