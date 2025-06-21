@@ -3,7 +3,11 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
 </br><br>
- <div>
+ 
+
+![snake gif](https://github.com/kaleycode/kaleycode/blob/output/github-contribution-grid-snake.svg)
+
+<div>
   <a href="https://github.com/kaleycode">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaleycode&layout=compact&langs_count=16&theme=dracula"/>
 </div>
@@ -44,6 +48,3 @@
  
 
 </div>
-
-
-![snake gif](https://github.com/kaleycode/kaleycode/blob/output/github-contribution-grid-snake.svg)
