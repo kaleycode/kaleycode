@@ -11,7 +11,9 @@
   <a href="https://github.com/kaleycode">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaleycode&layout=compact&langs_count=16&theme=dracula"/>
 </div>
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=kaleycode)
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaleycode)
       
 <h2>Currently Learning</h2>
 <div style="display: inline_block"><br>
