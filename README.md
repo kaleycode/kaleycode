@@ -11,9 +11,10 @@
   <a href="https://github.com/kaleycode">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaleycode&layout=compact&langs_count=16&theme=dracula"/>
 </div>
-
-<br><br> 
+<br>
+      
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaleycode&hide=stars,prs,issues,contribs)
+
       
 <h2>Currently Learning</h2>
 <div style="display: inline_block"><br>
