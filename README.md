@@ -40,10 +40,8 @@
 
 <img height="40" align="center" height="30" width="40" src="https://skillicons.dev/icons?i=sqlite"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
+<br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40">
-
-<img src="https://raw.githubusercontent.com/microsoft/playwright/main/docs/src/docs/welcome/playwright-logo.svg" alt="Playwright" width="40" height="40">
 
 </p>
   <br>
