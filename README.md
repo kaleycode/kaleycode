@@ -12,8 +12,8 @@
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaleycode&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaleycode)
+<br><br> 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaleycode&hide=stars,commits,prs,issues)
       
 <h2>Currently Learning</h2>
 <div style="display: inline_block"><br>
