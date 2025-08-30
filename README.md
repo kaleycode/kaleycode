@@ -13,7 +13,7 @@
 </div>
 <br>
       
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaleycode&hide=stars,prs,issues,contribs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaleycode&hide=stars,prs,issues,contribs&theme=dark)
 
       
 <h2>Currently Learning</h2>
