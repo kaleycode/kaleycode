@@ -29,6 +29,9 @@
     
 
 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40">
+
+
 <br><br>
 
  <img height="40" align="center" height="30" width="40" src="https://skillicons.dev/icons?i=linux"/>
