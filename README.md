@@ -11,7 +11,7 @@
 </div>
 <br>
       
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaleycode&hide=stars,prs,issues,contribs&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaleycode&hide=stars,prs,issues&theme=dark)
 
       
 <h2>Always Learning</h2>
