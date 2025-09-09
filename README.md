@@ -1,7 +1,5 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&duration=3500&lines=Hello!+My+name+is+Kaley!;"/>
-<a href="https://www.linkedin.com/in/kaley-a-0a0099328?trk=people-guest_people_search-card/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
+&nbsp;&nbsp;
 </br><br>
  
 
