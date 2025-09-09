@@ -7,7 +7,7 @@
 
 <div>
   <a href="https://github.com/kaleycode">
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaleycode&layout=compact&langs_count=20&theme=dracula"/>
+   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaleycode&langs_count=16&theme=dracula"/>
 </div>
 <br>
       
