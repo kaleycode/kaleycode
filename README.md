@@ -1,6 +1,6 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&duration=3500&lines=Hello!+My+name+is+Kaley!;"/>
 &nbsp;&nbsp;
-</br><br>
+
  
 
 ![snake gif](https://github.com/kaleycode/kaleycode/blob/output/github-contribution-grid-snake.svg)
